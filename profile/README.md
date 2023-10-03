@@ -2,14 +2,13 @@
 
 Welcome to XMOJ-Script dev team!
 
-~我不会编了, @PythonSmall-Q写吧~
-<!--
+We are the dev team for XMOJ-Script!
 
-**Here are some ideas to get you started:**
+Official Website:
+1. https://www.seanoj.edu.eu.org/
+2. https://web.xmoj-bbs.tech/
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ A short introduction - We are a pile of humans aiming for a bette world!
+🌈 Contribution guidelines - go to our repos, and select the one you like! You can contribute by adding an issue or writing a PR!!!
+👩‍💻 Useful resources - we are just working on the docs, please wait a secccc
+🍿 Fun facts - Our dev team members are actually not very good at developing and @PythonSmall-Q is coding while being a product manageer
