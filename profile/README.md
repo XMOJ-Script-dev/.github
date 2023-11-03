@@ -13,4 +13,4 @@ https://xmoj-bbs.tech/
 
 👩‍💻 Useful resources - we are just working on the docs, please wait a secccc
 
-🍿 Fun facts - Our dev team members are actually not very good at developing and @PythonSmall-Q is coding while being a product manageer
+🍿 Fun facts - Our dev team members are actually not very good at developing and @PythonSmall-Q is coding while being a product manager
