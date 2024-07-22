@@ -5,7 +5,7 @@ Welcome to XMOJ-Script dev team!
 We are the dev team for XMOJ-Script!
 
 Official Website:
-https://xmoj-bbs.tech/
+https://xmoj-bbs.me/
 
 🙋‍♀️ A short introduction - We are a pile of humans aiming for a better world!
 
