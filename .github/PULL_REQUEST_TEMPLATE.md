@@ -4,6 +4,8 @@ Please read the comments below to help us consider your Pull Request.
 
 We are all volunteers and completing the process outlined will help us review your commits quicker.
 
+Please use this pull request template, or your pull request will be closed.
+
 **Please make sure you**
 
 1. Base your code and PRs against the repositories developmental branch.
