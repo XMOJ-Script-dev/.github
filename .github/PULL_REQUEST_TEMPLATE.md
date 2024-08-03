@@ -7,6 +7,8 @@ We are all volunteers and completing the process outlined will help us review yo
 **Please make sure you**
 
 1. Base your code and PRs against the repositories developmental branch.
+
+### When you open a pull request, please delete the text above.
 ---
 
 **What does this PR aim to accomplish?:**
