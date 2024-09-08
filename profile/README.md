@@ -7,6 +7,8 @@ We are the dev team for XMOJ-Script!
 Official Website:
 https://xmoj-bbs.me/
 
+> Now, We are making a great development at our backend. You can find it at https://github.com/XMOJ-Script-dev/xmoj-bbs-v2
+
 🙋‍♀️ A short introduction - We are a pile of humans aiming for a better world!
 
 🌈 Contribution guidelines - go to our repos, and select the one you like! You can contribute by adding an issue or writing a PR!!!
