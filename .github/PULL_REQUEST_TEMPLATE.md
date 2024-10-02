@@ -8,7 +8,7 @@ Please use this pull request template, or your pull request will be closed.
 
 **Please make sure you**
 
-1. Base your code and PRs against the repository developmental branch.
+1. Base your code and PRs against the repository's developmental branch.
 
 ### When you open a pull request, please delete the text above.
 ---
