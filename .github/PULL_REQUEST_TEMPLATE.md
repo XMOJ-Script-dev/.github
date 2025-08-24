@@ -12,6 +12,10 @@ Please use this pull request template, or your pull request will be closed.
 
 ### When you open a pull request, please delete the text above.
 ---
+<!-- If you need to add release notes, put them here.-->
+<!-- release-notes
+No release notes were provided for this release.
+-->
 
 **What does this PR aim to accomplish?:**
 
