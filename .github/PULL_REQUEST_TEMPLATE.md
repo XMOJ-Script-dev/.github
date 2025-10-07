@@ -1,16 +1,14 @@
-## Thank you for your contribution to the XMOJ-Script Community!
+<!--
+Thank you for contributing to the XMOJ-Script Community!
 
-Please read the comments below to help us consider your Pull Request.
+Please read the contributor's guide:
+https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md
 
-We are all volunteers, and completing the process outlined will help us review your commits quicker.
-
-Please use this pull request template, or your pull request will be closed.
-
-**Please make sure you**
-
-1. Base your code and PRs against the repository's developmental branch.
-
-### When you open a pull request, please delete the text above.
+Notes:
+- Base your PR on the developmental branch (`dev`).
+- Provide clear repro & test steps.
+- Use "Closes #123" to auto-link issues.
+-->
 ---
 <!-- If you need to add release notes, put them here.-->
 <!-- release-notes
