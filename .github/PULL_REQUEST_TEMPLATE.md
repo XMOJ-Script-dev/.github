@@ -6,7 +6,7 @@ https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md
 
 Notes:
 - Base your PR on the developmental branch (`dev`).
-- Provide clear repro & test steps.
+- Please use this pull request template, or your pull request will be closed.
 - Use "Closes #123" to auto-link issues.
 -->
 ---
