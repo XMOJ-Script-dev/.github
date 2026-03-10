@@ -35,6 +35,8 @@ No release notes were provided for this release.
 7. I have considered and confirmed that this submission will be valuable to others.
 8. I accept that this submission may not be used, and the pull request can be closed at the will of the maintainer.
 9. I give this submission freely and claim no ownership to its content.
+<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick the box below. You must actually load the script in a browser with both the new UI (Shconfigured/XMOJ-New-UI or equivalent) and the old/classic XMOJ UI, exercise the affected functionality, and confirm it behaves correctly in both before checking this box. -->
+10. I have verified that my changes work correctly in **both the new UI and the old/classic UI**.
 
 ---
 - [ ] I have read the above and my PR is ready for review. *Check this box to confirm*
