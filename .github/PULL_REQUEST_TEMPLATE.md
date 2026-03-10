@@ -24,6 +24,7 @@ No release notes were provided for this release.
 <!--- Replace this with a detailed description (such as a changelog) and screenshots (if necessary) of the implemented fix -->
 
 ---
+<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 10 specifically, you must actually load the script in a browser with both the new UI and the old/classic XMOJ UI, exercise the affected functionality, and confirm it behaves correctly in both. -->
 **By submitting this pull request, I confirm the following:**
 
 1. I have read and understood the [contributor's guide](https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md), as well as this entire template. I understand which branch to base my commits and Pull Requests against.
@@ -35,7 +36,6 @@ No release notes were provided for this release.
 7. I have considered and confirmed that this submission will be valuable to others.
 8. I accept that this submission may not be used, and the pull request can be closed at the will of the maintainer.
 9. I give this submission freely and claim no ownership to its content.
-<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick the box below. You must actually load the script in a browser with both the new UI (Shconfigured/XMOJ-New-UI or equivalent) and the old/classic XMOJ UI, exercise the affected functionality, and confirm it behaves correctly in both before checking this box. -->
 10. I have verified that my changes work correctly in **both the new UI and the old/classic UI**.
 
 ---
