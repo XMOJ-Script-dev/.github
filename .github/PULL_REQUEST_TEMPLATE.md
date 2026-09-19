@@ -10,7 +10,7 @@ Notes:
 - Use "Closes #123" to auto-link issues.
 -->
 
-<!-- If you need to add release notes, put them here.-->
+<!-- If you need to add release notes, put them here. You may use HTML, but not markdown.-->
 <!-- release-notes
 No release notes were provided for this release.
 -->
