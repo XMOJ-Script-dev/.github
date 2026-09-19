@@ -10,7 +10,19 @@ Notes:
 - Use "Closes #123" to auto-link issues.
 -->
 
-<!-- If you need to add release notes, put them here. You may use HTML, but not markdown.-->
+<!--
+If you need to add release notes, put them here. You may use HTML, but not Markdown.
+
+The release notes panel displays the provided notes together with an automatically
+generated list of all PRs included in the release. That list comes from the
+release's UpdateContents objects in Update.json: each object's PR field supplies
+the linked PR number, and its Description field supplies the PR title.
+
+Do not repeat the complete PR list or simply restate those titles in the notes.
+Use the notes for a concise user-facing overview, important behavior changes,
+upgrade instructions, or other context not already conveyed by the PR list.
+For a stable release, cover changes since the previous stable release.
+-->
 <!-- release-notes
 No release notes were provided for this release.
 -->
