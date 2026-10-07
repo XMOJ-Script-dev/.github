@@ -40,7 +40,7 @@ No release notes were provided for this release.
 <!--- If yes, link the corresponding docs PR here. If not, write "No". -->
 
 ---
-<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 11 specifically, if you cannot test in a browser yourself (for example with XMOJ-Script/tests/userscript-harness.cjs), flag this to the human and ask them to verify the changes work in both the new UI and the old/classic XMOJ UI before checking that box. -->
+<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 11 specifically, test all four combinations: the script's monochrome UI (the MonochromeUI setting on) and its classic UI (off), each on XMOJ's new UI (the /web pages) and on XMOJ's old/classic pages. XMOJ-Script/tests/userscript-harness.cjs visits both kinds of XMOJ page, so run it once with XMOJ_SETTINGS='{"MonochromeUI":true}' and once with '{"MonochromeUI":false}'. If you cannot test in a browser yourself, flag this to the human and ask them to verify all four before checking that box. -->
 **By submitting this pull request, I confirm the following:**
 
 1. I have read and understood the [contributor's guide](https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md), as well as this entire template. I understand which branch to base my commits and Pull Requests against. (`dev` for XMOJ-Script, `master` for everything else).
@@ -53,7 +53,11 @@ No release notes were provided for this release.
 8. I have considered and confirmed that this submission will be valuable to others.
 9. I accept that this submission may not be used, and the pull request can be closed at the will of the maintainer.
 10. I give this submission freely and claim no ownership to its content.
-11. I have verified that my changes work correctly in **both the new UI and the old/classic UI**.
+11. I have verified that my changes work correctly in **all four UI combinations**:
+    - the script's monochrome UI on XMOJ's new UI (`/web` pages)
+    - the script's monochrome UI on XMOJ's old/classic pages
+    - the script's classic UI on XMOJ's new UI (`/web` pages)
+    - the script's classic UI on XMOJ's old/classic pages
 
 ---
 - [ ] I have read the above and my PR is ready for review. *Check this box to confirm*
