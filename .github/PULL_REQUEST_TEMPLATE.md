@@ -40,7 +40,7 @@ No release notes were provided for this release.
 <!--- If yes, link the corresponding docs PR here. If not, write "No". -->
 
 ---
-<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 11 specifically, you cannot test in a browser yourself — flag this to the human and ask them to verify the changes work in both the new UI and the old/classic XMOJ UI before checking that box. -->
+<!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 11 specifically, if you cannot test in a browser yourself, flag this to the human and ask them to verify the changes work in both the new UI and the old/classic XMOJ UI before checking that box. -->
 **By submitting this pull request, I confirm the following:**
 
 1. I have read and understood the [contributor's guide](https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md), as well as this entire template. I understand which branch to base my commits and Pull Requests against. (`dev` for XMOJ-Script, `master` for everything else).
