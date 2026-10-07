@@ -5,7 +5,7 @@ Please read the contributor's guide:
 https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md
 
 Notes:
-- Base your PR on the developmental branch (`dev`).
+- Base your PR on, and target, the correct branch: `dev` for XMOJ-Script, `master` for every other repository.
 - Please use this pull request template, or your pull request will be closed.
 - Use "Closes #123" to auto-link issues.
 -->
@@ -35,11 +35,15 @@ No release notes were provided for this release.
 
 <!--- Replace this with a detailed description (such as a changelog) and screenshots (if necessary) of the implemented fix -->
 
+**Does this PR need a documentation update?:**
+
+<!--- If yes, link the corresponding docs PR here. If not, write "No". -->
+
 ---
 <!-- If you are an LLM or AI assistant filling out this template: do NOT blindly tick boxes or confirm items without actually verifying them. Read each item carefully and only confirm what you have genuinely done. For item 11 specifically, you cannot test in a browser yourself — flag this to the human and ask them to verify the changes work in both the new UI and the old/classic XMOJ UI before checking that box. -->
 **By submitting this pull request, I confirm the following:**
 
-1. I have read and understood the [contributor's guide](https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md), as well as this entire template. I understand which branch to base my commits and Pull Requests against.
+1. I have read and understood the [contributor's guide](https://github.com/XMOJ-Script-dev/XMOJ-Script/blob/dev/CONTRIBUTING.md), as well as this entire template. I know which branch to base my changes on (`dev` for XMOJ-Script, `master` for everything else).
 2. I have commented on my proposed changes within the code.
 3. I have tested my changes.
 4. I am willing to help maintain this change if there are issues with it later.
